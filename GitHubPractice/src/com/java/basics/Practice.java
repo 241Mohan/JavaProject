@@ -5,6 +5,6 @@ public class Practice {
 		int a=1220;
 		String name="Shivani";
 		System.out.println("Integer = "+a);
-        System.out.println("String = "+name);
+        System.out.println("Name = "+name);
 	}
 }
